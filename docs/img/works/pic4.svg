@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="222"
+   height="145"
+   viewBox="0 0 222 145"
+   fill="none"
+   version="1.1"
+   id="svg5439"
+   sodipodi:docname="pic4.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5441"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.8517241"
+     inkscape:cx="104.32285"
+     inkscape:cy="81.003628"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5728" />
+  <path
+     d="M14.7495 144.953L11.6068 124.51C8.33006 103.194 17.8417 81.9349 35.918 70.1729L94.5623 35.1207C104.488 29.1883 115.834 26.0557 127.397 26.0557H148.603C178.276 26.0557 204.057 46.4518 210.886 75.3283L212.554 82.3863C214.95 92.5182 214.838 103.082 212.228 113.16L203.993 144.953H14.7495Z"
+     fill="#F2F2F2"
+     id="path5107" />
+  <defs
+     id="defs5437">
+    <clipPath
+       id="clip0">
+      <rect
+         width="77.7401"
+         height="144.433"
+         fill="white"
+         transform="translate(123.448 0.520508)"
+         id="rect5431" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <rect
+         width="93.3645"
+         height="90.0492"
+         fill="white"
+         transform="translate(9.33664 54.9038)"
+         id="rect5434" />
+    </clipPath>
+  </defs>
+  <g
+     id="g5728"
+     transform="matrix(3.0491156,0,0,3.0491156,56.478946,0.01762961)">
+    <g
+       id="g7358"
+       transform="matrix(0.87858064,0,0,0.90024895,3.5123123,1.2841001)">
+      <path
+         fill="#42a5f5"
+         d="M 38,42 H 8 C 8,42 5,41.9 5,34 h 36 c 0,7.9 -3,8 -3,8"
+         id="path5560" />
+      <rect
+         x="7"
+         y="3"
+         fill="#90caf9"
+         width="28"
+         height="31"
+         id="rect5562" />
+      <circle
+         fill="#43a047"
+         cx="33"
+         cy="35"
+         r="10"
+         id="circle5564"
+         style="fill:#c62121;fill-opacity:0.986167" />
+      <g
+         id="g5582">
+	<rect
+   x="16"
+   y="12"
+   fill="#1976d2"
+   width="14"
+   height="2"
+   id="rect5566" />
+
+	<rect
+   x="16"
+   y="16"
+   fill="#1976d2"
+   width="14"
+   height="2"
+   id="rect5568" />
+
+	<rect
+   x="16"
+   y="20"
+   fill="#1976d2"
+   width="14"
+   height="2"
+   id="rect5570" />
+
+	<rect
+   x="12"
+   y="12"
+   fill="#1976d2"
+   width="2"
+   height="2"
+   id="rect5572" />
+
+	<rect
+   x="12"
+   y="16"
+   fill="#1976d2"
+   width="2"
+   height="2"
+   id="rect5574" />
+
+	<rect
+   x="12"
+   y="20"
+   fill="#1976d2"
+   width="2"
+   height="2"
+   id="rect5576" />
+
+	<rect
+   x="12"
+   y="24"
+   fill="#1976d2"
+   width="2"
+   height="2"
+   id="rect5578" />
+
+	<path
+   fill="#1976d2"
+   d="M 28.2,24 H 16 v 2 h 9.1 c 0.9,-0.8 2,-1.5 3.1,-2 z"
+   id="path5580" />
+
+</g>
+      <g
+         id="g5588">
+	<rect
+   x="31"
+   y="29"
+   fill="#ffffff"
+   width="4"
+   height="12"
+   id="rect5584" />
+
+	<rect
+   x="27"
+   y="33"
+   fill="#ffffff"
+   width="12"
+   height="4"
+   id="rect5586" />
+
+</g>
+    </g>
+  </g>
+</svg>
