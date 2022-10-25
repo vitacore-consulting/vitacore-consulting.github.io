@@ -11,10 +11,20 @@
       font-size: 24px;
       color: $grey;
       max-width: 600px;
-      padding: 0 16px;
+      padding: 5px 16px;
     }
     img {
       min-width: 250px;
+    }
+    a.pdf-link {
+      display: block;
+      padding: 6px 16px 0 16px;
+      // text-decoration: none;
+      color: #737373;
+      &::before {
+        padding-right: 5px;
+        content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEUAAACioqKWlpZSUlL+/v7v7+/66urs7Ozp6enm5ub53d3ww8PvpKTtmpqhoaGYmJjrcnLfaWmKioraUlJzc3PkQkLbNjZeXl7PISFQUFDsAQHiAwPaAADRAADDAQG0AAA6TFp5AAAABHRSTlMAlpaWdHq5NQAAAHtJREFUeNptyFESgjAMRdEAqUmQgoKoVVv3v0uTQpl+eD7evLkA0Iy7BjYj7kqZkMUgTW0JzBYkl9cBRWhu62Bm2L4NC4uGt1rRlhXe4KP8cNElyiHGuPp7v8RISkNKz5O/Dn1KroTzkjLnHOEDvgen/gWAgJWgoQuV7gf7XA8DySi2zwAAAABJRU5ErkJggg==");
+      }
     }
   }
 }
